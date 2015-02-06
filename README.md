@@ -1,7 +1,7 @@
+*Warning! This app has been written for the workshop and is not production-ready!*
+
 Pull Request Notifier
 =====================
-
-*Warning! This app has been written for the workshop and is not production-ready!*
 
 You want to follow some pull requests and get notified when they are merged? Here is a GitHub Pull Request Notifier!
 
