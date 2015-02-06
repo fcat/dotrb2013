@@ -1,6 +1,8 @@
 Pull Request Notifier
 =====================
 
+*Warning! This app has been written for the workshop and is not production-ready!*
+
 You want to follow some pull requests and get notified when they are merged? Here is a GitHub Pull Request Notifier!
 
 * Sign in with your GitHub account
@@ -11,8 +13,6 @@ A sample Rails app
 ------------------
 
 This is a sample Rails app for the [Gemnasium workshop](http://www.dotrb.eu/workshops#gemnasium) at [dotRB2013](http://www.dotrb.eu/).
-
-Warning! This app has been written for the workshop and is not production-ready!
 
 Requirements
 ------------
